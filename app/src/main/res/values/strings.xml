@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxExponentialBackoff</string>
+    <string name="immediate_retry">Immediate Retry</string>
+    <string name="constant_retry">Constant Retry</string>
+    <string name="exponential_retry">Exponential Retry</string>
+    <string name="exponential_with_random_retry">Exponential Random Retry</string>
+</resources>
